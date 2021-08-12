@@ -16,9 +16,6 @@ export default function  Navbar() {
     return (
       <div>
         <nav>
-          {/*<div className="logo">*/}
-          {/*  <img src="mm.png" alt=""/>*/}
-          {/*</div>*/}
           <div className={ham} onClick={() => setHamburger(!hamburger)}>
             <div className="line1"></div>
             <div className="line2"></div>

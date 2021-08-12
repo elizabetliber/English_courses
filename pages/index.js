@@ -11,16 +11,12 @@ const Index = () => {
   return (
     <div>
       <Head>
-        <title>liesel</title>
-        {/*<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"/>*/}
-        {/*<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>*/}
+        <title>English Courses</title>
       </Head>
       <Navbar/>
       <BodyText/>
       <Button/>
       <Comments/>
-      {/*<Form/>*/}
-      {/*<iframe width={600} height={900} src="https://forms.gle/5J2rhrKEVZmHPNYB8"></iframe>*/}
     </div>
   )
 }

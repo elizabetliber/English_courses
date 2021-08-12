@@ -3,7 +3,7 @@
 
 nav {
     height: 16vh;
-    width: 100vw;
+    width: 100%;
     background-color: #2a2626;
     box-shadow: 0 3px 20px rgba(0, 0, 0, 0.2);
     display: flex;
@@ -155,3 +155,4 @@ nav {
 .toggle .line3 {
     transform: rotate(45deg) translate(-5px, -6px);
 }
+
